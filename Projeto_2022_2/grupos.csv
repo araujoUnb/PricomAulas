@@ -1,34 +1,34 @@
-Nome,Sobrenome,Grupo,Notas
-Laura," Yamamoto",1,
-Lucca," Lopes",1,
-Luiz," Phelipe de Oliveira",1,
-Lukas," Araujo",1,
-Mateus," Jose Gonsalves",1,
-Matheus," Felix",1,
-Thalles," Antonio Neiva",1,
-Daniel," de Melo",2,
-Italo," Costa Cavalcante",2,
-Erick," Rollemberg Cruciol",2,
-Mariana," Ramos de Múcio",2,
-Emmanuelle," Silva",2,
-Gabriel," Bacon",2,
-Kaio," Vinicius",2,
-Alander,Praxedes de Souza Oliveira,3
-Alisson, Ferreira da Silva,3
-Gabriel, Roberto Lima,3
-João, Vitor Araújo dos Santos,3
-Luís, Guilherme Julião Simões,3
-Norton, Ney Vieira Filho,3
-Vinícius, Eduardo Lopes da Silva,3
-Walter, José R M Junior,4
-Nathan, Spinola Zeidan,4
-Fernanda, Faria Diniz,4
-Herbert, Tavares de Oliveira,4
-Artur, Manoel Cipriano,4
-Erik, Lopes,5
-Julia, Santos,5
-Davi, Dantas,5
-João, Pedro,5
-Débora, Fernandes,5
-Henrique, Seabra,5
-Vitor, Pereira,5
+Nome,Sobrenome,Grupo,Tema,Notas
+Laura," Yamamoto",1,implementação do receptor super-heteródino,
+Lucca," Lopes",1,implementação do receptor super-heteródino,
+Luiz," Phelipe de Oliveira",1,implementação do receptor super-heteródino,
+Lukas," Araujo",1,implementação do receptor super-heteródino,
+Mateus," Jose Gonsalves",1,implementação do receptor super-heteródino,
+Matheus," Felix",1,implementação do receptor super-heteródino,
+Thalles," Antonio Neiva",1,implementação do receptor super-heteródino,
+Daniel," de Melo",2,Implementar transmissor AM/FM  Stereo,
+Italo," Costa Cavalcante",2,Implementar transmissor AM/FM  Stereo,
+Erick," Rollemberg Cruciol",2,Implementar transmissor AM/FM  Stereo,
+Mariana," Ramos de Múcio",2,Implementar transmissor AM/FM  Stereo,
+Emmanuelle," Silva",2,Implementar transmissor AM/FM  Stereo,
+Gabriel," Bacon",2,Implementar transmissor AM/FM  Stereo,
+Kaio," Vinicius",2,Implementar transmissor AM/FM  Stereo,
+Alander,Praxedes de Souza Oliveira,3,Implementar transmissor/receptor AM-FDM com 4 canais
+Alisson, Ferreira da Silva,3,Implementar transmissor/receptor AM-FDM com 4 canais
+Gabriel, Roberto Lima,3,Implementar transmissor/receptor AM-FDM com 4 canais
+João, Vitor Araújo dos Santos,3,Implementar transmissor/receptor AM-FDM com 4 canais
+Luís, Guilherme Julião Simões,3,Implementar transmissor/receptor AM-FDM com 4 canais
+Norton, Ney Vieira Filho,3,Implementar transmissor/receptor AM-FDM com 4 canais
+Vinícius, Eduardo Lopes da Silva,3,Implementar transmissor/receptor AM-FDM com 4 canais
+Walter, José R M Junior,4,implementar demodulador FM com o uso de PLL Implementar receptor AM com multiplexação em quadratura
+Nathan, Spinola Zeidan,4,implementar demodulador FM com o uso de PLL 
+Fernanda, Faria Diniz,4,implementar demodulador FM com o uso de PLL 
+Herbert, Tavares de Oliveira,4,implementar demodulador FM com o uso de PLL 
+Artur, Manoel Cipriano,4,implementar demodulador FM com o uso de PLL 
+Erik, Lopes,5,Implementar receptor AM com multiplexação em quadratura
+Julia, Santos,5,Implementar receptor AM com multiplexação em quadratura
+Davi, Dantas,5,Implementar receptor AM com multiplexação em quadratura
+João, Pedro,5,Implementar receptor AM com multiplexação em quadratura
+Débora, Fernandes,5,Implementar receptor AM com multiplexação em quadratura
+Henrique, Seabra,5,Implementar receptor AM com multiplexação em quadratura
+Vitor, Pereira,5,Implementar receptor AM com multiplexação em quadratura
