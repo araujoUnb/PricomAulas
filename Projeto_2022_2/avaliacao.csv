@@ -1,6 +1,0 @@
-Grupo,Tema,Introdução,Definição do Problema," Solução",Resultados,Conclusão," Duração (min)"," Perguntas"
-1,implementação do receptor super-heteródino,,,,,,,
-2,implementar transmissor AM/FM  Stereo,,,,,,,
-3,implementar transmissor/receptor AM-FDM com 4 canais,1,1,"1",1,1,"20","1"
-4,implementar demodulador FM com o uso de PLL Implementar receptor AM com multiplexação em quadratura,0.5,0.8,"1",0.8,0,"15","0.8"
-5,Implementar receptor AM com multiplexação em quadratura,1,1,"1",1,0.5,"20",
